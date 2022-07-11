@@ -11,4 +11,4 @@ If n is the following node on the path, g(n) represents the cost of the route fr
 Euclidean distance is used for this model to navigate to any of the grids even with diagonally movement <br>
 
 # Example :
-<img src="euclidean.png" alt="example" width="200"/>
+<img src="src/euclidean.png" alt="example" width="200"/>
